@@ -7,6 +7,7 @@
  - Spring-Boot 2.4.5
  - h2 database
  - Gradle 6.8.3
+ - Java 1.8
 
 ## 문제해결 방법
 프로젝트 구동과 동시에 JPA를 사용하여 JAVA와 DB 테이블을 맵핑하고 초기 데이터를 입력.
